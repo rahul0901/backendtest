@@ -3,3 +3,7 @@ E5dI3hXoSNHIYuIW
 
 
 mongodb+srv://errahulnshinde09:<password>@cluster0.rmmjdis.mongodb.net/
+
+get - front se back kuch bhi data nai aayega [data backend se lena hai tab..]
+post - front se back data []
+put - front se data da
